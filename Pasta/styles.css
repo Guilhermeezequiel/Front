@@ -1,0 +1,90 @@
+ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
+
+.calendar{
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+
+.calendar2{
+  margin-left: 50%;
+  height: 100px;
+}
+.Principal{
+    width: 30%;
+  height: 200px;
+     
+}
+label{
+    font-size: 20px;
+    text-align: center;
+}
+.div_label{
+    text-align: center;
+   
+}
+.botao{
+    
+    text-align: center;
+}
+
+*{margin: 0px; padding: 0px}
+
+
+h1, button{
+  color:#fff;
+  text-align: center;
+}
+
+p{
+  color:#fff;
+  text-align: center;
+
+  font-size: 10px;
+}
+
+a{
+   text-decoration:none;
+   color:#fff;
+}
+
+a:hover{
+   color:#2ecc71;
+}
+
+.main{
+  width: 100%;
+}
+
+.sub-main{
+  width: 30%;
+  float: left;
+}
+
+/*Button One*/
+.button-one {
+  border-radius: 4px;
+  outline: none;
+  background-color: #27ae60;
+  border: none;
+  border-radius:5px;
+  width: 100%;
+  box-shadow: 0 5px #95a5a6;
+  transition: all 0.5s;
+ 
+}
+
+.button-one:hover{
+  background-color: #2ecc71;
+}
+
+.button-one:active {
+  background-color: #2ecc71;
+  box-shadow: 0 5px #95a5a6;
+  transform: translateY(4px);
+}
+.botao{
+  
+    margin: 0 15px;
+}
