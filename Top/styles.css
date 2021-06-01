@@ -77,7 +77,23 @@ table {
     color: #28B463;
 }
 
+.col {
+    position: relative;
+    right: 110px;
+}
+
+.perfil {
+    position: relative;
+    left: 170px;
+}
+
 .voltar {
-    margin-left: 80%;
-    margin-top: -0%;
+    position: relative;
+    top: -60px;
+    width: 0%;
+    height: 50%;
+}
+
+body {
+    background-color: #e7e8ea;
 }
